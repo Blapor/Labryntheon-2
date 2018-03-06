@@ -1,5 +1,10 @@
 package maze;
 
+/**
+*
+* @author Ryan
+*/
+
 public class Menu{
 	
 	//THIS CLASS IS UNUSED, MAY REMOVE LATER

@@ -1,5 +1,10 @@
 package maze;
 
+/**
+*
+* @author Ryan
+*/
+
 public class Character {
 	//Save variables
 	private int numRooms;
